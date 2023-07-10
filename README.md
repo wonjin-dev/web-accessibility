@@ -2,18 +2,24 @@
 
 <ol>
   <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Tutorial.md">튜토리얼</a>
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Tutorial.md">Tutorial</a>
   </li>
   <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Image.md">이미지</a>
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Image.md">Image</a>
   </li>
   <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Carousel.md">캐러셀</a>
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Carousel.md">Carousel</a>
   </li>
   <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Accordion.md">아코디언</a>
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Accordion.md">Accordion</a>
   </li>
   <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Checkbox.md">체크박스</a>
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Checkbox.md">Checkbox</a>
+  </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Combobox.md">Combobox</a>
+  </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Meter.md">Meter</a>
   </li>
 </ol>
