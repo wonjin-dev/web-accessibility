@@ -6,4 +6,9 @@
       Tutorial
     </a>
   </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Page Structure.md">
+      Page Structure
+    </a>
+  </li>
 </ol>
