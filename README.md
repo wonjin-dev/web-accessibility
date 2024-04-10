@@ -27,7 +27,7 @@
     </a>
   </li>
   <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Checkbox.md">
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Checkbox">
       Checkbox
     </a>
   </li>
