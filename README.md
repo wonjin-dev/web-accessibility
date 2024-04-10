@@ -31,4 +31,9 @@
       Checkbox
     </a>
   </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Image">
+      Images
+    </a>
+  </li>
 </ol>
