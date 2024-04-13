@@ -61,4 +61,9 @@
       Accordion
     </a>
   </li>
+  <li>
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Dialog.md">
+      Dialog
+    </a>
+  </li>
 </ol>
