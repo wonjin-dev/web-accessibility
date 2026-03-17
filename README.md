@@ -2,27 +2,27 @@
 
 <ol>
   <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Tutorial.md">
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Tutorial.md">
       Tutorial
     </a>
   </li>
   <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Page Structure.md">
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Page Structure.md">
       Page Structure
     </a>
   </li>
   <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Button.md">
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Button.md">
       Button
     </a>
   </li>
   <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/ComboBox.md">
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/ComboBox.md">
       ComboBox
     </a>
   </li>
   <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Carousel.md">
+    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Carousel.md">
       Carousel
     </a>
   </li>
